@@ -1,0 +1,40 @@
+---
+title: 'Node'
+icon: 'node'
+---
+
+## Simple
+
+```yaml
+run: npm start --port 4000 --host 0.0.0.0
+```
+
+## Express Server
+
+```yaml
+script: |
+  npm ci --production
+  npm run build
+run: node server.js --port=4000
+```
+
+
+## NestJS
+
+```yaml
+script: |
+  npm install
+  npm run build
+  npx prisma migrate deploy
+run: npm run start:prod -p 3000
+```
+
+
+## NextJS
+
+```yaml
+script: |
+  npm install
+  npm run export
+run: serve out -p 8080
+```

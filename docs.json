@@ -1,0 +1,73 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Deploy Tanzania",
+  "colors": {
+    "primary": "#00cdbc",
+    "light": "#00efbc",
+    "dark": "#00efbc"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introduction",
+              "first-app",
+              "shipfile",
+              "github",
+              "stack"
+            ]
+          },
+          {
+            "group": "Examples",
+            "pages": [
+              "examples/python",
+              "examples/node",
+              "examples/go",
+              "examples/bun",
+              "examples/static"
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Home",
+          "href": "https://deploy.tz",
+          "icon": "house"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/logo/logo.svg",
+    "dark": "/logo/logo.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "https://github.com/DeployTZ/Support"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://deploy.tz/dashboard"
+    }
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/DeployTZ",
+      "github": "https://github.com/DeployTZ",
+      "linkedin": "https://linkedin.com/company/SubCodeAfrica"
+    }
+  }
+}
