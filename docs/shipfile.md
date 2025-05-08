@@ -1,6 +1,4 @@
----
-title: "Shipfile"
----
+# Shipfile
 
 A Shipfile is a simple YAML configuration file that automates your application deployment. It specifies setup commands and runtime instructions for your app.
 

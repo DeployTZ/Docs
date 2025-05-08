@@ -136,3 +136,15 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
+
+.avatar[data-v-c214abfa] {
+  position: relative;
+  flex-shrink: 0;
+  margin: 0 auto;
+  border-radius: none !important;
+  box-shadow: none;
+}
+
+.avatar-img {
+  border-radius: 0% !important;
+}

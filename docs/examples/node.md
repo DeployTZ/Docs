@@ -37,11 +37,10 @@ script:
 run: serve out -p 8080
 ```
 
-## VUE / REACT / SVELTE
+## WEBPACK / VITE
+
+Simply specify your output folder for your static are exported to. Deploy will look for index.html
 
 ```
-script:
-  npm install
-  npm run export
-run: dist/index.html
+run: dist
 ```

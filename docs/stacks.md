@@ -3,26 +3,26 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: '/public/images/app_logs.png',
+    avatar: '/support/nodejs.png',
     name: 'Node',
 
   },
   {
-    avatar: '/public/images/app_logs.png',
+    avatar: '/support/python.png',
     name: 'Python',
   
   },
   {
-    avatar: '/public/images/app_logs.png',
+    avatar: '/support/go.svg',
     name: 'Golang',
  
   },
   {
-    avatar: '/public/images/app_logs.png',
+    avatar: '/support/bun.png',
     name: 'Bun',
   },
   {
-    avatar: '/public/images/app_logs.png',
+    avatar: '/support/html.png',
     name: 'Static Websites',
   },
 ]

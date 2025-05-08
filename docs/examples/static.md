@@ -1,7 +1,4 @@
----
-title: "Static Website"
-icon: "globe"
----
+# Static Website
 
 ```
 run: index.html

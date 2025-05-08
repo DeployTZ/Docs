@@ -1,13 +1,10 @@
----
-title: "Your First App"
-description: "How to Deploy your app instantly"
----
+# Getting Started
+
+## How to Deploy your app instantly
 
 Once you have signed in, you will be presented with a dashboard like this:
 
 ![Dashboard](/public/images/dashboard.png)
-
-Let's discuss the sections:
 
 ## Account Overview
 

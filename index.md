@@ -8,7 +8,7 @@ hero:
   tagline: Your Gateway to Effortless App Hosting
 
 features:
-  - title: Launchpad first App Deployment
+  - title: Get Started with Deploy
     details: Start from zero to deployed in less than 5 minutes
     link: /docs/first-app
   - title: Link your Github
